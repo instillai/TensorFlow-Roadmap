@@ -2,7 +2,7 @@
   :target: https://machinelearningmindset.com/subscription/
 
 ********************************************
-TensorFlow-World-Resources - `Project Page`_
+TensorFlow Roadmap
 ********************************************
 .. _Project Page: http://tensorflow-world-resources.readthedocs.io/en/latest/
 
