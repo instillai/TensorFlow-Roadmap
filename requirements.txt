@@ -1,0 +1,2 @@
+python-coveralls
+sphinx_rtd_theme
