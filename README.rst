@@ -28,7 +28,7 @@ Download Free Python Machine Learning Book
 .. raw:: html
 
  <a href="http://www.machinelearningmindset.com/tensorflow-roadmap-ebook/" target="_blank">
-  <img width="650" height="450" align="center" src="https://github.com/machinelearningmindset/TensorFlow-Roadmap/blob/master/_img/mainpage/booksubscribe.png"/>
+  <img width="850" height="600" align="center" src="https://github.com/machinelearningmindset/TensorFlow-Roadmap/blob/master/_img/mainpage/booksubscribe.png"/>
  </a>
 
 .. raw:: html
