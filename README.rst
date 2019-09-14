@@ -19,6 +19,24 @@ TensorFlow Roadmap
 
 .. image:: _img/mainpage/TensorFlow_World.gif
 
+###################################################
+Download Free Python Machine Learning Book
+###################################################
+
+.. raw:: html
+
+   <div align="center">
+
+.. raw:: html
+
+ <a href="http://www.machinelearningmindset.com/tensorflow-roadmap-ebook/" target="_blank">
+  <img width="600" height="900" align="center" src="https://github.com/machinelearningmindset/TensorFlow-Roadmap/blob/master/_img/mainpage/tesnorflowroadmapcover.png"/>
+ </a>
+
+.. raw:: html
+
+   </div>
+
 #################
 Table of Contents
 #################
