@@ -18,7 +18,7 @@ TensorFlow Roadmap
       :target: https://twitter.com/amirsinatorfi
 
 ###################################################
-Download Free Python Machine Learning Book
+Download Free TensorFlow Roadmap EBook
 ###################################################
 
 .. raw:: html
