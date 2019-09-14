@@ -17,8 +17,6 @@ TensorFlow Roadmap
 .. image:: https://img.shields.io/twitter/follow/amirsinatorfi.svg?label=Follow&style=social
       :target: https://twitter.com/amirsinatorfi
 
-.. image:: _img/mainpage/TensorFlow_World.gif
-
 ###################################################
 Download Free Python Machine Learning Book
 ###################################################
@@ -30,7 +28,7 @@ Download Free Python Machine Learning Book
 .. raw:: html
 
  <a href="http://www.machinelearningmindset.com/tensorflow-roadmap-ebook/" target="_blank">
-  <img width="600" height="900" align="center" src="https://github.com/machinelearningmindset/TensorFlow-Roadmap/blob/master/_img/mainpage/tesnorflowroadmapcover.png"/>
+  <img width="400" height="600" align="center" src="https://github.com/machinelearningmindset/TensorFlow-Roadmap/blob/master/_img/mainpage/tesnorflowroadmapcover.png"/>
  </a>
 
 .. raw:: html
