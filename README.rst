@@ -1,5 +1,3 @@
-.. figure:: _img/mainpage/subscribe.gif
-  :target: https://machinelearningmindset.com/subscription/
 
 ********************************************
 TensorFlow Roadmap
