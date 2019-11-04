@@ -662,15 +662,12 @@ We are looking forward to your kind feedback. Please help us to improve this ope
 For contribution, please create a pull request and we will investigate it promptly. Once again, we appreciate
 your kind feedback and support.
 
-\| [|image0|](https://github.com/astorfi)
-[:sub:`Amirsina Torfi`](https://github.com/astorfi) \|
-
-.. |image0| image:: https://github.com/astorfi.png
 
 ========================= 
 ``_\  `Amirsina Torfi`_ 
 ========================= 
 
+|
 .. raw:: html
 
    <div align="left">
@@ -678,12 +675,12 @@ your kind feedback and support.
 .. raw:: html
 
  <a href="https://github.com/astorfi" target="_blank">
-  <img width="100" height="100" align="center" src="https://avatars1.githubusercontent.com/u/13461059?s=400&v=4"/>
+  <img width="100" height="100" align="center" src="https://github.com/astorfi.png"/>
  </a>
 
 .. raw:: html
 
    </div>
    <br/>
-   <sub>Amirsina Torfi</sub>
+   <sub>Amirsina Torfi</sub>|
  
