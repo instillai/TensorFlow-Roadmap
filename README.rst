@@ -680,7 +680,15 @@ your kind feedback and support.
 |
 
 +------------+
-| Header 1   | 
+| .. raw:: html
+
+   <div align="left">
+   <a href="https://github.com/astorfi" target="_blank">
+   <img width="100" height="100" align="center" src="https://github.com/astorfi.png"/>
+   </a>
+   </div>
+   <br/>
+   <sub>Amirsina Torfi</sub>   | 
 +============+
 | Header 1   | 
 +------------+
