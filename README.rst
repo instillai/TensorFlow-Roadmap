@@ -682,6 +682,6 @@ your kind feedback and support.
 +------------+
 | Header 1   | 
 +============+
-|Header 1    | 
-+============+
+| Header 1   | 
++------------+
  
