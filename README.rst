@@ -666,5 +666,16 @@ your kind feedback and support.
 ``_\  `Amirsina Torfi`_ 
 ========================= 
 
-.. _: https://github.com/astorfi
-.. _Angelos Chalaris: https://github.com/astorfi
+.. raw:: html
+
+   <div align="center">
+
+.. raw:: html
+
+ <a href="https://github.com/astorfi" target="_blank">
+  <img width="100" height="100" align="center" src="https://avatars1.githubusercontent.com/u/13461059?s=400&v=4"/>
+ </a>
+
+.. raw:: html
+
+   </div>
