@@ -671,15 +671,9 @@ your kind feedback and support.
 .. raw:: html
 
    <div align="left">
-
-.. raw:: html
-
- <a href="https://github.com/astorfi" target="_blank">
-  <img width="100" height="100" align="center" src="https://github.com/astorfi.png"/>
- </a>
-
-.. raw:: html
-
+   <a href="https://github.com/astorfi" target="_blank">
+   <img width="100" height="100" align="center" src="https://github.com/astorfi.png"/>
+   </a>
    </div>
    <br/>
    <sub>Amirsina Torfi</sub>|
