@@ -662,6 +662,11 @@ We are looking forward to your kind feedback. Please help us to improve this ope
 For contribution, please create a pull request and we will investigate it promptly. Once again, we appreciate
 your kind feedback and support.
 
+\| [|image0|](https://github.com/astorfi)
+[:sub:`Amirsina Torfi`](https://github.com/astorfi) \|
+
+.. |image0| image:: https://github.com/astorfi.png
+
 ========================= 
 ``_\  `Amirsina Torfi`_ 
 ========================= 
