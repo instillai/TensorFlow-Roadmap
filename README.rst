@@ -668,7 +668,7 @@ your kind feedback and support.
 
 .. raw:: html
 
-   <div align="center">
+   <div align="left">
 
 .. raw:: html
 
