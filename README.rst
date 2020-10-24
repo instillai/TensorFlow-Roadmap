@@ -14,6 +14,24 @@ TensorFlow Roadmap
     :target: https://coveralls.io/github/astorfi/TensorFlow-World-Resources?branch=master
 .. image:: https://img.shields.io/twitter/follow/amirsinatorfi.svg?label=Follow&style=social
       :target: https://twitter.com/amirsinatorfi
+      
+To support maintaining and upgrading this project, please kindly consider `Sponsoring the project developer <https://github.com/sponsors/astorfi/dashboard>`_.
+
+Any level of support is a great contribution here :heart:
+
+.. raw:: html
+
+   <div align="center">
+
+.. raw:: html
+
+ <a href="https://github.com/sponsors/astorfi/dashboard" target="_blank">
+  <img width="600" height="500" align="center" src="https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/donation.jpg"/>
+ </a>
+
+.. raw:: html
+
+   </div>  
 
 ###################################################
 Download Free TensorFlow Roadmap EBook
